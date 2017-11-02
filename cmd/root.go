@@ -2,9 +2,9 @@ package cmd
 
 import (
 	"fmt"
-	"n0core-client/n0core"
 	"os"
 
+	"github.com/naoki912/n0core-client/n0core"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

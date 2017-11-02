@@ -1,7 +1,7 @@
 package main
 
 import (
-	"n0core-client/cmd"
+	"github.com/naoki912/n0core-client/cmd"
 )
 
 func main() {
